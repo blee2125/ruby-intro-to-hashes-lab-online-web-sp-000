@@ -4,7 +4,7 @@ end
 
 def actor
   actor_hash = {:actor => "Dwayne The Rock Johnson"}
-  return actor_hash[:actor]
+  puts actor_hash[:actor]
 end
 
 def monopoly
